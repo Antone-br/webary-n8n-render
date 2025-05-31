@@ -3,21 +3,18 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 
-### How to install n8n on render.com for free
+### Comment installer n8n sur render.com gratuitement
+Suivez ces étapes :
+1. Cliquez sur le bouton render ci-dessus
+2. Choisissez un nom de blueprint, par exemple "n8n"
+3. Cliquez sur "Create New Resources"
+4. Appliquez
+5. Allez dans Dashboard > n8n (le nom de votre service) > Environment
+6. Copiez votre URL (lien violet dans l'en-tête)
+7. Collez votre URL comme valeur pour WEBHOOK_URL
+8. Attendez une minute que votre instance se mette à jour
+9. Profitez !
 
-Follow these steps :
+Cette instance sera gratuite pendant 90 jours, ensuite vous devrez payer 7$/mois pour la base de données.
 
-1. Click on the render button above
-2. Choose a blueprint name, for exemple "n8n"
-3. Click on "Create New Ressources"
-4. Apply
-5. Go to Dashboard > n8n (your service name) > Environment
-6. Copy your URL (purple link in header).
-7. Past your URL as value for WEBHOOK_URL
-8. Wait a minute for your instance to update
-9. Enjoy !
-
-
-This instance will be free for 90d, then you need to pay 7$/mo for the database.
-
-Created by Antoine Deschamps for La Machine. Inspired by ready4mars.
+Créé par Antoine Deschamps pour La Machine. Inspiré par ready4mars.
