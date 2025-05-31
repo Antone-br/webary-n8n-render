@@ -15,6 +15,4 @@ Suivez ces étapes :
 8. Attendez une minute que votre instance se mette à jour
 9. Profitez !
 
-Cette instance sera gratuite pendant 90 jours, ensuite vous devrez payer 7$/mois pour la base de données.
-
-Créé par Antoine Deschamps pour La Machine. Inspiré par ready4mars.
+Créé par Webary.
